@@ -98,8 +98,13 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 
 
 
+
+<!-- Referensi -->
+## Reference
+* [From Words to Numbers: Getting Started with Text Analysis for Applied Social Scientists](https://www.e-bcrp.org/archive/view_article?pid=bcrp-3-2-122)
+
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -111,7 +116,7 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
+ -->
 
 
 
