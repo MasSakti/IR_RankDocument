@@ -12,8 +12,8 @@
   <a href="https://github.com/MasSakti/IR_RankDocument">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
-  <h3 align="center">Information Retrieval RankDocument</h3>
+ 
+  <h3 align="center">Information Retrieval Rank Document</h3>
 
   <p align="center">
     Data Search Engine Dengan Teknik Indexing
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/MasSakti/IRSearchEngine/blob/main/images/ss.png?raw=true)
+![Product Name Screen Shot](https://github.com/MasSakti/IRSearchEngine/blob/main/images/1.png?raw=true)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -128,4 +128,4 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/MasSakti/IR_RankDocument/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/1.png
