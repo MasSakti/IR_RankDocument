@@ -69,8 +69,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Aplikasi diatas dibuat dengan menggunakan beberapa bantuan program dibawah ini :
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [PHP](https://www.php.net/)
 * [Bootstrap](https://getbootstrap.com)
 
 
@@ -138,6 +139,5 @@ Video
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/MasSakti/IR_RankDocument/issues
 <!-- [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/MasSakti/IR_RankDocument/blob/master/LICENSE.txt -->
-[product-screenshot]: images/1.png
-[product-screenshot]: images/2.png
+[license-url]: https://github.com/MasSakti/IR_RankDocument/blob/master/LICENSE.txt
+[product-screenshot]: images/1.png -->
