@@ -103,9 +103,11 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 ## Reference
 Document
 * [From Words to Numbers: Getting Started with Text Analysis for Applied Social Scientists](https://www.e-bcrp.org/archive/view_article?pid=bcrp-3-2-122)
+* [Toward Data Science](https://towardsdatascience.com/tf-term-frequency-idf-inverse-document-frequency-from-scratch-in-python-6c2b61b78558)
 
 Video
 * [Algoritma Cosine Similarity](https://www.youtube.com/watch?v=E--XI4mQICU)
+* [TF-IDF Document Similarity](https://www.youtube.com/watch?v=hc3DCn8viWs&t)
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements
