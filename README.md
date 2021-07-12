@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://github.com/MasSakti/IRSearchEngine/blob/main/images/1.png?raw=true)
+![Product Name Screen Shot](https://github.com/MasSakti/IR_RankDocument/blob/main/images/1.PNG?raw=true)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -93,7 +93,7 @@ Contributions are what make the open source community such an amazing place to b
 
 191111041 - Muhammad Mutawalli Sya'rawi   [@mas.sakti_](https://www.instagram.com/mas.sakti_/)
 
-Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/MasSakti/IRSearchEngine)
+Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/MasSakti/IR_RankDocument)
 
 
 
