@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/MasSakti/Mbuh">
+  <a href="https://github.com/MasSakti/IR_RankDocument">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,14 +18,14 @@
   <p align="center">
     Data Search Engine Dengan Teknik Indexing
     <br />
-    <a href="https://github.com/MasSakti/Mbuh"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MasSakti/IR_RankDocument"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MasSakti/Mbuh">View Demo</a>
+    <a href="https://github.com/MasSakti/IR_RankDocument">View Demo</a>
     ·
-    <a href="https://github.com/MasSakti/Mbuh/issues">Report Bug</a>
+    <a href="https://github.com/MasSakti/IR_RankDocument/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MasSakti/Mbuh/issues">Request Feature</a>
+    <a href="https://github.com/MasSakti/IR_RankDocument/issues">Request Feature</a>
   </p>
 </p>
 
@@ -118,14 +118,14 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/MasSakti/Mbuh/graphs/contributors
+[contributors-url]: https://github.com/MasSakti/IR_RankDocument/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/MasSakti/Mbuh/network/members
+[forks-url]: https://github.com/MasSakti/IR_RankDocument/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/MasSakti/Mbuh/stargazers
+[stars-url]: https://github.com/MasSakti/IR_RankDocument/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/MasSakti/Mbuh/issues
+[issues-url]: https://github.com/MasSakti/IR_RankDocument/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/MasSakti/Mbuh/blob/master/LICENSE.txt
+[license-url]: https://github.com/MasSakti/IR_RankDocument/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
