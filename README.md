@@ -95,7 +95,7 @@ Contributions are what make the open source community such an amazing place to b
 
 191111041 - Muhammad Mutawalli Sya'rawi   [@mas.sakti_](https://www.instagram.com/mas.sakti_/)
 
-Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/MasSakti/IR_RankDocument)
+Project Link: [https://github.com/MasSakti/IR_RankDocument](https://github.com/MasSakti/IR_RankDocument)
 
 
 
