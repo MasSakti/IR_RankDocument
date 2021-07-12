@@ -101,7 +101,11 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 
 <!-- Referensi -->
 ## Reference
+Document
 * [From Words to Numbers: Getting Started with Text Analysis for Applied Social Scientists](https://www.e-bcrp.org/archive/view_article?pid=bcrp-3-2-122)
+
+Video
+* [Algoritma Cosine Similarity](https://www.youtube.com/watch?v=E--XI4mQICU)
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements
