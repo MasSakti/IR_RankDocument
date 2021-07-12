@@ -126,8 +126,8 @@ Project Link: [https://github.com/MasSakti/IRSearchEngine](https://github.com/Ma
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/MasSakti/IR_RankDocument/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-<!-- [issues-url]: https://github.com/MasSakti/IR_RankDocument/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/MasSakti/IR_RankDocument/issues
+<!-- [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/MasSakti/IR_RankDocument/blob/master/LICENSE.txt -->
 [product-screenshot]: images/1.png
 [product-screenshot]: images/2.png
