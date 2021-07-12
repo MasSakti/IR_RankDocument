@@ -16,7 +16,7 @@
   <h3 align="center">Information Retrieval Rank Document</h3>
 
   <p align="center">
-    Data Search Engine Dengan Teknik Indexing
+    Ranking Document dengan menerapkan konsep TF-IDF
     <br />
     <a href="https://github.com/MasSakti/IR_RankDocument"><strong>Explore the docs »</strong></a>
     <br />
